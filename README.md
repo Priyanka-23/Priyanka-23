@@ -5,6 +5,7 @@
 - 🔭 &nbsp; I work as an Associate Software Engineer at London Stock Exchange group.
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Web Designing.
+- 🎓 &nbsp; Earned Javascript badge, Being in top 15% of 1.1 Million people on Linkedin.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
