@@ -47,4 +47,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanka-tiwari-bb4468163"><img src="https://img.shields.io/badge/-Priyanka%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:priyankatiwary23@gmail.com"><img src="https://img.shields.io/badge/-priyankatiwary23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/pt_23"><img src="https://img.shields.io/badge/-priyankatiwary23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/priyankatiwary23/"><img src="https://img.shields.io/badge/-priyankatiwary23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
