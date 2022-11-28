@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I work as an SDE-1 at Captain Fresh.
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Web Designing.
-- 🎓 &nbsp; Earned Javascript badge, Being in top 15% of 1.1 Million people on Linkedin.
+- 🎓 &nbsp; Earned Javascript badge, Being top 15% of 1.1 Million people on Linkedin.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,7 +21,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 - 🛢 &nbsp;&nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ 
 - ⚙️ &nbsp;
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
