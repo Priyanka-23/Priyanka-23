@@ -2,9 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I work as an Software Engineer-Frontend at Captain Fresh.
+- 🔭 &nbsp; I work as an Software Engineer-Frontend at Draup Inc.
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Web Designing.
+-  🎓 &nbsp; NASSCOM certified Gold medalist in Software development.
 - 🎓 &nbsp; Earned Javascript badge, Being top 15% of 1.1 Million people on Linkedin.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
