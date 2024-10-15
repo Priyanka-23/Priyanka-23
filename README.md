@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I work as an Software Engineer-Frontend at Draup Inc.
+- 🔭 &nbsp; I am working as an Software Engineer-Frontend at InteractiveEQ.
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Web Designing.
 -  🎓 &nbsp; NASSCOM certified Gold medalist in Software development.
