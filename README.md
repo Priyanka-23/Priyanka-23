@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Priyanka Tiwari. <a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Know more</a></h2>
+<h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Check out my resume</a></h6></h2>
 
 <h2> 👨🏻‍💻 &nbsp;Experience </h2>
 <h3> <a href="https://interactiveeq.com/">Interactive EQ </a> | USA | Remote</h3>
