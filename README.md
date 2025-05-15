@@ -1,33 +1,37 @@
-<h2> 👋 Hey there! I'm Priyanka Tiwari.</h2>
+<h2> Hey there! I'm Priyanka Tiwari.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🔭 &nbsp; I am working as an Software Engineer-Frontend at InteractiveEQ.
-- 🤔 &nbsp; Exploring new technologies and developing web apps.
-- 🎓 &nbsp; Graduated with Bachelor's degree in Web Designing.
--  🎓 &nbsp; NASSCOM certified Gold medalist in Software development.
-- 🎓 &nbsp; Earned Javascript badge, Being top 15% of 1.1 Million people on Linkedin.
+<h2> 👨🏻‍💻 &nbsp;Experience </h2>
+<h3> <a href="https://interactiveeq.com/">Interactive EQ </a> | USA | Remote</h3>
+<h2>Founding Engineer</h2>
+<section> I developed the MVP of an AI-based video assessment platform from the ground up to evaluate soft skills and emotional intelligence (EQ) of talent. I was responsible for the entire lifecycle—from architecture and development to production deployment. Today, the platform is actively used by 40+ dealers across the USA. Beyond frontend and system development, I bring strong product engineering experience, having worked closely on user experience, performance optimization, and feature strategy to align with real-world use cases. </section>
+<h3> <a href="https://draup.com/">Draup Inc. </a> | India | Bengaluru</h3>
+<h2>Frontend Engineer</h2>
+<section> Revamped Draup’s Signal module with a pixel-perfect, accessible UI using React and Redux, ensured design system compliance, and contributed to Storybook by developing reusable components and leading accessibility improvements. </section>
+<h3> <a href="https://www.captainfresh.in/">Captain Fresh </a> | India | Bengaluru</h3>
+<h2>Software Engineer</h2>
+<section> Built the Fishgram admin app from the ground up, implementing multi-tenancy support, KYC document verification, and robust role-based access control for dealer and user management, while leveraging GraphQL for efficient frontend-backend communication and leading the end-to-end development of the Orders and Invoices modules within the in-house ERP platform. </section>
+<h3> <a href="https://tekion.com/">Tekion </a> | India | Bengaluru</h3>
+<h2>Software Engineer- Intern</h2>
+<section> Developed internal tools at Tekion to streamline team operations and support engineering workflows.Built approval management interfaces using React and Material UI, enabling smoother and faster decision processes and created DevOps task management tables to improve visibility and coordination of deployment workflows.</section>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+- <section>Proficient</section>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-- 🌐 &nbsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+- <section>Familiar With</section>
+   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-- 🛢 &nbsp;&nbsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
- 
-- ⚙️ &nbsp;
+  
+- <section>Tools</section>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-- 🔧 &nbsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 
 <br/>
 
