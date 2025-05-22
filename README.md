@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Check out my resume</a></h6> <h6><a href="[https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing](https://drive.google.com/drive/folders/1T9zzy4hTKaR4nYv7lEpOLMuXE2ilX8Xh?usp=drive_link)">Work samples</a></h6></h2>
+<h2> Hey there! I'm Priyanka Tiwari. <h6><a href="https://drive.google.com/file/d/1Kdj9jQydQOjwnzfRDrpxwmXxFlXzQ0Ue/view?usp=sharing">Check out my resume</a></h6> </h2>
 
-<h2> 👨🏻‍💻 &nbsp;Experience </h2>
+<h2> 👨🏻‍💻 &nbsp;Experience <h6><a href="https://drive.google.com/drive/folders/1T9zzy4hTKaR4nYv7lEpOLMuXE2ilX8Xh?usp=drive_link">Work samples</a></h6> </h2>
 <h3> <a href="https://interactiveeq.com/">Interactive EQ </a> | USA | Remote</h3>
 <h2>Founding Engineer</h2>
 <section> I developed the MVP of an AI-based video assessment platform from the ground up to evaluate soft skills and emotional intelligence (EQ) of talent. I was responsible for the entire lifecycle—from architecture and development to production deployment. Today, the platform is actively used by 40+ dealers across the USA. Beyond frontend and system development, I bring strong product engineering experience, having worked closely on user experience, performance optimization, and feature strategy to align with real-world use cases. </section>
